@@ -19,7 +19,7 @@
     "@monaco-editor/react": "^4.3.1",
     "@next/bundle-analyzer": "^12.0.4",
     "@radix-ui/react-portal": "^0.1.1",
-    "@radix-ui/react-tooltip": "^0.1.6",
+    "@radix-ui/react-tooltip": "^1.1.0",
     "@scaleleap/pg-format": "^1.0.0",
     "@sentry/browser": "^6.15.0",
     "@sentry/nextjs": "^6.17.4",
@@ -85,7 +85,7 @@
     "uniforms-bootstrap4": "^3.6.2",
     "uniforms-bridge-json-schema": "^3.6.2",
     "uuid": "^8.3.2",
-    "yup": "^0.32.11",
+    "yup": "^1.0.0",
     "yup-password": "^0.2.2",
     "zxcvbn": "^4.4.2"
   },
